@@ -1,0 +1,6 @@
+{
+  "name": "Lazuardi Security Management System",
+  "description": "LSMS — Sistem Operasi Manajemen Keamanan Terpadu Lingkungan Sekolah Lazuardi.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

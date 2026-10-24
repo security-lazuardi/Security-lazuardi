@@ -1,0 +1,6 @@
+{
+  "summary":  "Rancangan arsitektur lengkap Lazuardi Security Management System (LSMS) mencakup diagram alur sistem, struktur folder, rancangan skema PostgreSQL & RLS, matriks role permission, strategi penghematan Supabase Free Tier, rencana implementasi bertahap Phase 1–8, mitigasi risiko, checklist QA, dan panduan konfigurasi deployment.",
+  "updatedAt":  "2026-10-24T01:57:51.375541234Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
